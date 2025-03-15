@@ -18,7 +18,7 @@ Ensure you have **Python 3.8+** installed.
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/company-reputation-analyzer.git
+   git clone https://github.com/harshadwarokar/company-reputation-analyzer.git
    cd company-reputation-analyzer
    ```
 2. Install dependencies:
